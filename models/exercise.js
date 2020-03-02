@@ -1,7 +1,9 @@
 let mongoose = require("mongoose");
 
+let Schema = mongoose.Schema;
+
 //Exercise Scehma
-let exerciseSchema = mongoose.Schema({
+let exerciseSchema = new Schema({
     exerciseType: {
         type: String,
         required: true
