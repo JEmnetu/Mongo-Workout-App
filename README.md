@@ -20,6 +20,12 @@ After you submit the workout you will see the stats reflected on the homepage an
 
 &nbsp;
 
+![workout1](/public/assets/images/workout1.png)
+![workout3](/public/assets/images/workout3.png)
+![workout2](/public/assets/images/workout2.png)
+
+
+
 ## Technologies Used
 ---
 * MongoDB & Mongoose
